@@ -1,1 +1,1 @@
-worker: python bot_gols.py
+worker: python bot_gols.py --once
